@@ -1,8 +1,6 @@
 # trades_2_OHLC_prices
 
 
-ec2-user@34.248.41.122, yes.
-
 thats where the data that need to be reformatted is, you can take a look at a few of the TRADE files, I will need those converted into 1min timestamps of the price, and probably other timeframes too, for OKex Quarterly and others. Dont do too much yet just maybe see if you can do it for one file and Ill let you know which ones I need it for
 
 
